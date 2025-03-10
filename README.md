@@ -1,2 +1,2 @@
 # MCPACK-Quick-Import
-Hey!
+Yo, to use this software you want to create a folder with all the mcpacks inside of it, then open your Minecraft. From here, open the software, and copy the path to the folder full of packs. Once Minecraft is open, you can paste this path into the software, and then it will automatically import every single pack inside the folder at high speed. More details on my YouTube channel!
